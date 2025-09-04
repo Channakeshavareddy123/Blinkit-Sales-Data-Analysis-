@@ -2,9 +2,8 @@
 Conducted a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution using Power BI, leveraging KPIs and visualizations to uncover key insights and opportunities for optimization
 Key Performance Indicators (KPIs):
 
-Sales Performance
-
-Total sales generated across all outlets.
+1.Sales Performance
+-Total sales generated across all outlets.
 
 Comparison of average sales per transaction by outlet location and size.
 
