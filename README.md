@@ -5,7 +5,7 @@ README
 Blinkilt-Data-Analysis
 To conduct a comprehensive analysis of Blinkit's sales performence,customer satisfaction, and inventory distribution to identify key insights and opportunitis for optimization using various KPIs and visualizations in power BI.
 
-KPI's
+# KPI's
 1.Sales Performance KPIs
 
 ->What is the total sales generated across all outlets?
@@ -24,7 +24,7 @@ KPI's
 
 6.How do sales and average sales differ by geographical region or outlet location?
 
-Performance Highlights:
+# Performance Highlights:
 Outlet Performance: The report highlights different sales volumes based on outlet size and location type, enabling targeted business strategies for each tier..
 
 Product Type Insights:Highest sales are generated from categories like Fruits and Vegetables and Snack Foods, contributing $0.18M each.Other strong categories include Household ($0.14M) and Frozen Foods ($0.12M).
@@ -35,7 +35,7 @@ Outlet Size Contribution:Medium-sized outlets contribute the highest sales ($507
 
 Item Visibility: Tracking item visibility highlights which product types are more visible and how it impacts sales and customer purchasing decisions
 
-Insights for Action:
+# Insights for Action:
 Improve Customer Rating: With a 3.9 average rating, there’s potential to improve customer satisfaction through enhanced services or promotions.
 
 Focus on High-Performing Product Categories: The report indicates which product categories (e.g., Fruits and Vegetables, Snacks) are performing well, enabling a focus on boosting inventory and promotions in those areas.
